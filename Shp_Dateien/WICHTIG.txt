@@ -1,0 +1,5 @@
+Hinweise zur Benutzung der Dateien:
+
+Die Shapedatei im entsprechenden Ordner kann als Vektorlayer zu einem bestehenden Projekt hinzugefügt werden. 
+Wichtig ist jedoch, dass sich die zugehörigen Dateien ebenfalls im Projekt befinden. Für die shp-Dateien sind die restlichen Dateien nötig.
+Das Einfachste ist, den runtergeladenen Ordner nach dem Entzippen direkt in den Projekt-Ordner zu verschieben und die shp-Dateien von dort in das Projekt zu laden. 
